@@ -40,7 +40,7 @@ A superpower of Ethereum is allowing builders to create a simple set of rules th
 - Displays staker balances, deadlines, and on-chain events
 - Allows users to stake ETH directly from the browser
 
-**Frontend URL:** [https://my-staking-dapp-8nhao51ze-dhruv4nes-projects.vercel.app/stakings](https://my-staking-dapp-8nhao51ze-dhruv4nes-projects.vercel.app/stakings)
+**Frontend URL:** [here](https://my-staking-dapp-8nhao51ze-dhruv4nes-projects.vercel.app/stakings)
 
 ---
 
